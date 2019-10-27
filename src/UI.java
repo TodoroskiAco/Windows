@@ -8,4 +8,9 @@ public class UI {
 
     }
 
+    public void HDScreen(){
+        System.out.println("This is HD");
+
+    }
+
 }
